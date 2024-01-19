@@ -1,0 +1,10 @@
+# Config file for the clock
+#
+# Write in normal python syntax
+# Setting: START, END, CLOCK_FORMAT
+
+import datetime
+
+START="Hello World!"
+CLOCK_FORMAT="%c"
+END=""
